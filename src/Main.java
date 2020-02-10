@@ -1,4 +1,7 @@
-import javax.swing.JButton;
+/*import javax.swing.JButton;
+import javax.swing.JFrame;*/
+
+import javafx.*;
 import javax.swing.JFrame;
 
 public class Main {
